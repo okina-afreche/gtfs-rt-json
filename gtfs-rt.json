@@ -1,0 +1,94 @@
+{
+  "header": {
+    "gtfsRealtimeVersion": "1.0",
+    "timestamp": 1754318904
+  },
+  "entity": [
+    {
+      "id": "fda487b3-4f94-4fcd-f5cd-08ddce546575",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": 1754258400,
+            "end": 1754344799
+          }
+        ],
+        "informedEntity": [
+          {
+            "agencyId": "C",
+            "routeId": "C00M1",
+            "trip": {
+              "tripId": "45835420-C2025-choi-Sem-Vac-76",
+              "routeId": "C00M1",
+              "startTime": "01:19:00",
+              "startDate": "20250804",
+              "scheduleRelationship": "CANCELED"
+            }
+          }
+        ],
+        "cause": "OTHER_CAUSE",
+        "effect": "NO_SERVICE",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.letec.be/Traffic/Detail/fda487b3-4f94-4fcd-f5cd-08ddce546575",
+              "language": "fr-be"
+            },
+            {
+              "text": "https://www.letec.be/Traffic/Detail/fda487b3-4f94-4fcd-f5cd-08ddce546575",
+              "language": "nl-be"
+            },
+            {
+              "text": "https://www.letec.be/Traffic/Detail/fda487b3-4f94-4fcd-f5cd-08ddce546575",
+              "language": "en-us"
+            },
+            {
+              "text": "https://www.letec.be/Traffic/Detail/fda487b3-4f94-4fcd-f5cd-08ddce546575",
+              "language": "de-de"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "Annulations",
+              "language": "fr-be"
+            },
+            {
+              "text": "Annuleringen",
+              "language": "nl-be"
+            },
+            {
+              "text": "Cancellations",
+              "language": "en-us"
+            },
+            {
+              "text": "Stornierungen",
+              "language": "de-de"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "Perturbation : Annulation voyage 18 - ligne 3",
+              "language": "fr-be"
+            },
+            {
+              "text": "Ontregeling : Annulering reis 18 - lijn 3",
+              "language": "nl-be"
+            },
+            {
+              "text": "Disruption : Cancellation trip 18 - line 3",
+              "language": "en-us"
+            },
+            {
+              "text": "Störung : Stornierung reise 18 - linie 3",
+              "language": "de-de"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
