@@ -32,19 +32,19 @@
           "translation": [
             {
               "text": "https://www.letec.be/Traffic/Detail/fda487b3-4f94-4fcd-f5cd-08ddce546575",
-              "language": "fr-be"
+              "language": "fr"
             },
             {
               "text": "https://www.letec.be/Traffic/Detail/fda487b3-4f94-4fcd-f5cd-08ddce546575",
-              "language": "nl-be"
+              "language": "nl"
             },
             {
               "text": "https://www.letec.be/Traffic/Detail/fda487b3-4f94-4fcd-f5cd-08ddce546575",
-              "language": "en-us"
+              "language": "en"
             },
             {
               "text": "https://www.letec.be/Traffic/Detail/fda487b3-4f94-4fcd-f5cd-08ddce546575",
-              "language": "de-de"
+              "language": "de"
             }
           ]
         },
@@ -52,19 +52,19 @@
           "translation": [
             {
               "text": "Annulations",
-              "language": "fr-be"
+              "language": "fr"
             },
             {
               "text": "Annuleringen",
-              "language": "nl-be"
+              "language": "nl"
             },
             {
               "text": "Cancellations",
-              "language": "en-us"
+              "language": "en"
             },
             {
               "text": "Stornierungen",
-              "language": "de-de"
+              "language": "de"
             }
           ]
         },
@@ -72,19 +72,19 @@
           "translation": [
             {
               "text": "Perturbation : Annulation voyage 18 - ligne 3",
-              "language": "fr-be"
+              "language": "fr"
             },
             {
               "text": "Ontregeling : Annulering reis 18 - lijn 3",
-              "language": "nl-be"
+              "language": "nl"
             },
             {
               "text": "Disruption : Cancellation trip 18 - line 3",
-              "language": "en-us"
+              "language": "en"
             },
             {
               "text": "Störung : Stornierung reise 18 - linie 3",
-              "language": "de-de"
+              "language": "de"
             }
           ]
         }
