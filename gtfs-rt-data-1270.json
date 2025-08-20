@@ -1,0 +1,78 @@
+{
+  "header": {
+    "gtfsRealtimeVersion": "1.0",
+    "timestamp": 1754381271
+  },
+  "entity": [
+    {
+      "id": "fda487b3-4f94-4fcd-f5cd-08ddce546575",
+      "alert": {
+        "activePeriod": [
+          {
+            "start": 1754258400,
+            "end": 1854381238
+          }
+        ],
+        "informedEntity": [
+          {
+            "agencyId": "C",
+            "routeId": "C00M1",
+            "trip": {
+              "tripId": "46121681-C2025-choi-Sem-N-3-07",
+              "routeId": "C00M1",
+              "startTime": "01:19:00",
+              "startDate": "20250804",
+              "scheduleRelationship": "CANCELED"
+            }
+          }
+        ],
+        "cause": "OTHER_CAUSE",
+        "effect": "NO_SERVICE",
+        "url": {
+          "translation": [
+            {
+              "text": "https://www.letec.be/Traffic/Detail/fda487b3-4f94-4fcd-f5cd-08ddce546575",
+              "language": "fr-be"
+            },
+            {
+              "text": "https://www.letec.be/Traffic/Detail/fda487b3-4f94-4fcd-f5cd-08ddce546575",
+              "language": "nl-be"
+            },
+            {
+              "text": "https://www.letec.be/Traffic/Detail/fda487b3-4f94-4fcd-f5cd-08ddce546575",
+              "language": "en-us"
+            },
+            {
+              "text": "https://www.letec.be/Traffic/Detail/fda487b3-4f94-4fcd-f5cd-08ddce546575",
+              "language": "de-de"
+            }
+          ]
+        },
+        "headerText": {
+          "translation": [
+            {
+              "text": "headerText\\r\\n\r\nnext line",
+              "language": "fr"
+            },
+            {
+              "text": "headerText\\n\nnext line",
+              "language": "en"
+            }
+          ]
+        },
+        "descriptionText": {
+          "translation": [
+            {
+              "text": "descriptionText\\r\\n\r\nnext line",
+              "language": "fr"
+            },
+            {
+              "text": "descriptionText\\n\nnext line",
+              "language": "en"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
