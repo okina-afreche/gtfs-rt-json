@@ -57,6 +57,14 @@
             {
               "text": "headerText\\n\nnext line",
               "language": "en"
+            },
+            {
+              "text": "headerText\\u000A\\u000D\u000A\u000Dnext line",
+              "language": "de"
+            },
+            {
+              "text": "headerText\\u000D\u000Dnext line",
+              "language": "es"
             }
           ]
         },
@@ -69,6 +77,14 @@
             {
               "text": "descriptionText\\n\nnext line",
               "language": "en"
+            },
+            {
+              "text": "descriptionText\\u000A\\u000D\u000A\u000Dnext line",
+              "language": "de"
+            },
+            {
+              "text": "descriptionText\\u000D\u000Dnext line",
+              "language": "es"
             }
           ]
         }
