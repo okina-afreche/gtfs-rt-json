@@ -59,11 +59,11 @@
               "language": "en"
             },
             {
-              "text": "headerText\\u000A\\u000D\u000A\u000Dnext line",
+              "text": "headerText\\u000a\\u000d\u000a\u000dnext line",
               "language": "de"
             },
             {
-              "text": "headerText\\u000D\u000Dnext line",
+              "text": "headerText\\u000d\u000dnext line",
               "language": "es"
             }
           ]
@@ -79,11 +79,11 @@
               "language": "en"
             },
             {
-              "text": "descriptionText\\u000A\\u000D\u000A\u000Dnext line",
+              "text": "descriptionText\\u000a\\u000d\u000a\u000dnext line",
               "language": "de"
             },
             {
-              "text": "descriptionText\\u000D\u000Dnext line",
+              "text": "descriptionText\\u000d\u000dnext line",
               "language": "es"
             }
           ]
