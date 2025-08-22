@@ -6,35 +6,35 @@
   "entity": [
     {
       "id": "1",
-      "trip-update": {
+      "tripUpdate": {
         "trip": {
-          "trip_id": "44246",
-          "direction_id" : 1
+          "tripId": "44246",
+          "directionId" : 1
         }
       }
     },
     {
       "id": "2",
-      "trip-update": {
+      "tripUpdate": {
         "trip": {
-          "trip_id": "44247"
+          "tripId": "44247"
         }
       }
     },
     {
       "id": "3",
-      "trip-update": {
+      "tripUpdate": {
         "trip": {
-          "trip_id": "44787",
-          "direction_id" : 0
+          "tripId": "44787",
+          "directionId" : 0
         }
       }
     },
     {
       "id": "4",
-      "trip-update": {
+      "tripUpdate": {
         "trip": {
-          "trip_id": "44788"
+          "tripId": "44788"
         }
       }
     }
