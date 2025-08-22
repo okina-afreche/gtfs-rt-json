@@ -13,7 +13,7 @@
         },
         "stopTimeUpdate": [
           {
-            "stopSequence": 0,
+            "stopSequence": 2,
             "arrival": {
               "delay": 30
             }
