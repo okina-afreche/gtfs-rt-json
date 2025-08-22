@@ -1,0 +1,42 @@
+{
+  "header": {
+    "gtfsRealtimeVersion": "1.0",
+    "timestamp": 1754381271
+  },
+  "entity": [
+    {
+      "id": "1",
+      "trip-update": {
+        "trip": {
+          "trip_id": "44246",
+          "direction_id" : 1
+        }
+      }
+    },
+    {
+      "id": "2",
+      "trip-update": {
+        "trip": {
+          "trip_id": "44247"
+        }
+      }
+    },
+    {
+      "id": "3",
+      "trip-update": {
+        "trip": {
+          "trip_id": "44787",
+          "direction_id" : 0
+        }
+      }
+    },
+    {
+      "id": "4",
+      "trip-update": {
+        "trip": {
+          "trip_id": "44788"
+        }
+      }
+    }
+  ]
+}
