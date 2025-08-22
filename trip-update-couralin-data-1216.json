@@ -10,7 +10,15 @@
         "trip": {
           "tripId": "44246",
           "directionId" : 1
-        }
+        },
+        "stopTimeUpdate": [
+          {
+            "stopSequence": 0,
+            "arrival": {
+              "delay": 30
+            }
+          }
+        ]
       }
     },
     {
