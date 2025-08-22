@@ -8,7 +8,7 @@
       "id": "1",
       "tripUpdate": {
         "trip": {
-          "tripId": "44246",
+          "tripId": "44249",
           "directionId" : 1
         },
         "stopTimeUpdate": [
@@ -25,25 +25,49 @@
       "id": "2",
       "tripUpdate": {
         "trip": {
-          "tripId": "44247"
-        }
+          "tripId": "44250"
+        },
+        "stopTimeUpdate": [
+          {
+            "stopSequence": 2,
+            "arrival": {
+              "delay": 30
+            }
+          }
+        ]
       }
     },
     {
       "id": "3",
       "tripUpdate": {
         "trip": {
-          "tripId": "44787",
+          "tripId": "44791",
           "directionId" : 0
-        }
+        },
+        "stopTimeUpdate": [
+          {
+            "stopSequence": 2,
+            "arrival": {
+              "delay": 30
+            }
+          }
+        ]
       }
     },
     {
       "id": "4",
       "tripUpdate": {
         "trip": {
-          "tripId": "44788"
-        }
+          "tripId": "44792"
+        },
+        "stopTimeUpdate": [
+          {
+            "stopSequence": 2,
+            "arrival": {
+              "delay": 30
+            }
+          }
+        ]
       }
     }
   ]
