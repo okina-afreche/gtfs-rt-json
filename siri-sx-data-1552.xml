@@ -36,6 +36,8 @@
                         <Places>
                             <AffectedPlace>
                                 <PlaceRef>FR:40140:Parking:1:LOC</PlaceRef>
+                            </AffectedPlace>
+                            <AffectedPlace>
                                 <PlaceRef>MOBIITI:Poi:1</PlaceRef>
                             </AffectedPlace>
                         </Places>
