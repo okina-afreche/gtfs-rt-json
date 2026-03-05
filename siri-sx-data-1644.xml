@@ -93,6 +93,86 @@
                         </Alerts>
                     </Extensions>
                 </PtSituationElement>
+                <PtSituationElement>
+                    <CreationTime>2026-02-05T14:02:17+01:00</CreationTime>
+                    <ParticipantRef>Traffic Report API (Chaos)$NAOLIBORG</ParticipantRef>
+                    <SituationNumber>azerty</SituationNumber>
+                    <Version>1</Version>
+                    <Source>
+                        <SourceType>other</SourceType>
+                    </Source>
+                    <VersionedAtTime>2026-03-02T09:23:31+01:00</VersionedAtTime>
+                    <Progress>open</Progress>
+                    <ValidityPeriod>
+                        <StartTime>2026-02-05T14:01:00+01:00</StartTime>
+                        <EndTime>2026-03-31T16:01:00+02:00</EndTime>
+                    </ValidityPeriod>
+                    <PublicationWindow>
+                        <StartTime>2026-02-05T14:00:00+01:00</StartTime>
+                        <EndTime>2026-03-31T16:01:00+02:00</EndTime>
+                    </PublicationWindow>
+                    <MiscellaneousReason>congestion</MiscellaneousReason>
+                    <Severity>noImpact</Severity>
+                    <Planned>true</Planned>
+                    <Keywords>inopinée</Keywords>
+                    <Summary>Test Circulation difficile CL</Summary>
+                    <Description>&lt;p&gt;Test Circulation difficile CL&lt;/p&gt;</Description>
+                    <Affects>
+                        <Networks>
+                            <AffectedNetwork>
+                                <AffectedLine>
+                                    <LineRef>C4</LineRef>
+                                    <Routes>
+                                        <AffectedRoute>
+                                            <RouteRef>FR_NAOLIB:Route:C4_361_R:LOC</RouteRef>
+                                        </AffectedRoute>
+                                    </Routes>
+                                </AffectedLine>
+                            </AffectedNetwork>
+                        </Networks>
+                    </Affects>
+                    <Extensions>
+                        <Alerts>
+                            <AlertMessages>
+                                <AlertMessage>
+                                    <ChannelName>Site web</ChannelName>
+                                    <ChannelType>web</ChannelType>
+                                    <MessageUsage>start</MessageUsage>
+                                    <SendNotification>false</SendNotification>
+                                    <NotificationDate>2026-02-05T13:01:47Z</NotificationDate>
+                                    <MessageText lang="fr">&lt;p&gt;Test Circulation difficile CL&lt;/p&gt;
+                                    </MessageText>
+                                </AlertMessage>
+                                <AlertMessage>
+                                    <ChannelName>BIV Decaux</ChannelName>
+                                    <ChannelType>pids</ChannelType>
+                                    <MessageUsage>start</MessageUsage>
+                                    <SendNotification>false</SendNotification>
+                                    <NotificationDate>2026-02-05T13:01:47Z</NotificationDate>
+                                    <MessageText lang="fr">Test Circulation difficile CL
+                                    </MessageText>
+                                </AlertMessage>
+                                <AlertMessage>
+                                    <ChannelName>X</ChannelName>
+                                    <ChannelType>twitter</ChannelType>
+                                    <MessageUsage>start</MessageUsage>
+                                    <SendNotification>true</SendNotification>
+                                    <NotificationDate>2026-03-02T08:23:31Z</NotificationDate>
+                                    <MessageText lang="fr">&lt;p&gt;Test Circulation difficile CL&lt;/p&gt;
+                                    </MessageText>
+                                </AlertMessage>
+                                <AlertMessage>
+                                    <ChannelName>Titre</ChannelName>
+                                    <ChannelType>title</ChannelType>
+                                    <MessageUsage>start</MessageUsage>
+                                    <SendNotification>false</SendNotification>
+                                    <NotificationDate>2026-02-05T13:01:47Z</NotificationDate>
+                                    <MessageText lang="fr">Test Circulation difficile CL</MessageText>
+                                </AlertMessage>
+                            </AlertMessages>
+                        </Alerts>
+                    </Extensions>
+                </PtSituationElement>
             </Situations>
         </SituationExchangeDelivery>
     </ServiceDelivery>
