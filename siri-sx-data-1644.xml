@@ -1,0 +1,99 @@
+<Siri
+        version="2.1"
+      xmlns="http://www.siri.org.uk/siri">
+    <ServiceDelivery>
+        <ResponseTimestamp>2026-03-02T09:25:15.671050595+01:00</ResponseTimestamp>
+        <ProducerRef>OKI</ProducerRef>
+        <ResponseMessageIdentifier>55b993c8-17e9-4805-93e6-5fbd1a6b7314</ResponseMessageIdentifier>
+        <RequestMessageRef>1e0d00a3-a1a9-4bab-a9a2-fe16709419c1</RequestMessageRef>
+        <Status>true</Status>
+        <SituationExchangeDelivery version="2.1">
+            <ResponseTimestamp>2026-03-02T09:25:15.671059227+01:00</ResponseTimestamp>
+            <SubscriptionRef>OKI</SubscriptionRef>
+            <RequestMessageRef>1e0d00a3-a1a9-4bab-a9a2-fe16709419c1</RequestMessageRef>
+            <Status>true</Status>
+            <Situations>
+                <PtSituationElement>
+                    <CreationTime>2026-02-05T14:02:17+01:00</CreationTime>
+                    <ParticipantRef>Traffic Report API (Chaos)$NAOLIBORG</ParticipantRef>
+                    <SituationNumber>e5ee251a-0292-11f1-a4e6-0a58a9feac02</SituationNumber>
+                    <Version>2</Version>
+                    <Source>
+                        <SourceType>other</SourceType>
+                    </Source>
+                    <VersionedAtTime>2026-03-02T09:23:31+01:00</VersionedAtTime>
+                    <Progress>open</Progress>
+                    <ValidityPeriod>
+                        <StartTime>2026-02-05T14:01:00+01:00</StartTime>
+                        <EndTime>2026-03-31T16:01:00+02:00</EndTime>
+                    </ValidityPeriod>
+                    <PublicationWindow>
+                        <StartTime>2026-02-05T14:00:00+01:00</StartTime>
+                        <EndTime>2026-03-31T16:01:00+02:00</EndTime>
+                    </PublicationWindow>
+                    <MiscellaneousReason>congestion</MiscellaneousReason>
+                    <Severity>noImpact</Severity>
+                    <Planned>true</Planned>
+                    <Keywords>inopinée</Keywords>
+                    <Summary>Test Circulation difficile CL</Summary>
+                    <Description>&lt;p&gt;Test Circulation difficile CL&lt;/p&gt;</Description>
+                    <Affects>
+                        <Networks>
+                            <AffectedNetwork>
+                                <AffectedLine>
+                                    <LineRef>C4</LineRef>
+                                    <Routes>
+                                        <AffectedRoute>
+                                            <RouteRef>FR_NAOLIB:Route:C4_361_R:LOC</RouteRef>
+                                        </AffectedRoute>
+                                    </Routes>
+                                </AffectedLine>
+                            </AffectedNetwork>
+                        </Networks>
+                    </Affects>
+                    <Extensions>
+                        <Alerts>
+                            <AlertMessages>
+                                <AlertMessage>
+                                    <ChannelName>Site web</ChannelName>
+                                    <ChannelType>web</ChannelType>
+                                    <MessageUsage>start</MessageUsage>
+                                    <SendNotification>false</SendNotification>
+                                    <NotificationDate>2026-02-05T13:01:47Z</NotificationDate>
+                                    <MessageText lang="fr">&lt;p&gt;Test Circulation difficile CL&lt;/p&gt;
+                                    </MessageText>
+                                </AlertMessage>
+                                <AlertMessage>
+                                    <ChannelName>BIV Decaux</ChannelName>
+                                    <ChannelType>pids</ChannelType>
+                                    <MessageUsage>start</MessageUsage>
+                                    <SendNotification>false</SendNotification>
+                                    <NotificationDate>2026-02-05T13:01:47Z</NotificationDate>
+                                    <MessageText lang="fr">Test Circulation difficile CL
+                                    </MessageText>
+                                </AlertMessage>
+                                <AlertMessage>
+                                    <ChannelName>X</ChannelName>
+                                    <ChannelType>twitter</ChannelType>
+                                    <MessageUsage>start</MessageUsage>
+                                    <SendNotification>true</SendNotification>
+                                    <NotificationDate>2026-03-02T08:23:31Z</NotificationDate>
+                                    <MessageText lang="fr">&lt;p&gt;Test Circulation difficile CL&lt;/p&gt;
+                                    </MessageText>
+                                </AlertMessage>
+                                <AlertMessage>
+                                    <ChannelName>Titre</ChannelName>
+                                    <ChannelType>title</ChannelType>
+                                    <MessageUsage>start</MessageUsage>
+                                    <SendNotification>false</SendNotification>
+                                    <NotificationDate>2026-02-05T13:01:47Z</NotificationDate>
+                                    <MessageText lang="fr">Test Circulation difficile CL</MessageText>
+                                </AlertMessage>
+                            </AlertMessages>
+                        </Alerts>
+                    </Extensions>
+                </PtSituationElement>
+            </Situations>
+        </SituationExchangeDelivery>
+    </ServiceDelivery>
+</Siri>
