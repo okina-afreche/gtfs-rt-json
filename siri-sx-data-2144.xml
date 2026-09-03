@@ -62,6 +62,36 @@
                     </Affects>
                 </PtSituationElement>
                 <PtSituationElement>
+                    <SituationNumber>operator_without_ref</SituationNumber>
+                    <Progress>open</Progress>
+                    <CreationTime>2026-07-30T09:24:22Z</CreationTime>
+                    <VersionedAtTime>2026-07-30T09:24:22Z</VersionedAtTime>
+                    <Version>1</Version>
+                    <Source>
+                        <SourceType>other</SourceType>
+                        <SourceName>frechousky</SourceName>
+                    </Source>
+                    <ParticipantRef>frechousky</ParticipantRef>
+                    <Planned>true</Planned>
+                    <Keywords />
+                    <PublicationWindow>
+                        <StartTime>2020-01-01T00:00:00Z</StartTime>
+                        <EndTime>2999-12-31T23:59:59Z</EndTime>
+                    </PublicationWindow>
+                    <ValidityPeriod>
+                        <StartTime>2020-01-01T00:00:00Z</StartTime>
+                        <EndTime>2999-12-31T23:59:59Z</EndTime>
+                    </ValidityPeriod>
+                    <MiscellaneousReason>unattendedBag</MiscellaneousReason>
+                    <Severity>verySevere</Severity>
+                    <Affects>
+                        <Operators>
+                            <AffectedOperator>
+                            </AffectedOperator>
+                        </Operators>
+                    </Affects>
+                </PtSituationElement>
+                <PtSituationElement>
                     <SituationNumber>operator_1</SituationNumber>
                     <Progress>open</Progress>
                     <CreationTime>2026-07-30T09:24:22Z</CreationTime>
@@ -162,6 +192,36 @@
                     </Affects>
                 </PtSituationElement>
                 <PtSituationElement>
+                    <SituationNumber>network_without_ref</SituationNumber>
+                    <Progress>open</Progress>
+                    <CreationTime>2026-07-30T09:24:22Z</CreationTime>
+                    <VersionedAtTime>2026-07-30T09:24:22Z</VersionedAtTime>
+                    <Version>1</Version>
+                    <Source>
+                        <SourceType>other</SourceType>
+                        <SourceName>frechousky</SourceName>
+                    </Source>
+                    <ParticipantRef>frechousky</ParticipantRef>
+                    <Planned>true</Planned>
+                    <Keywords />
+                    <PublicationWindow>
+                        <StartTime>2020-01-01T00:00:00Z</StartTime>
+                        <EndTime>2999-12-31T23:59:59Z</EndTime>
+                    </PublicationWindow>
+                    <ValidityPeriod>
+                        <StartTime>2020-01-01T00:00:00Z</StartTime>
+                        <EndTime>2999-12-31T23:59:59Z</EndTime>
+                    </ValidityPeriod>
+                    <MiscellaneousReason>unattendedBag</MiscellaneousReason>
+                    <Severity>verySevere</Severity>
+                    <Affects>
+                        <Networks>
+                            <AffectedNetwork>
+                            </AffectedNetwork>
+                        </Networks>
+                    </Affects>
+                </PtSituationElement>
+                <PtSituationElement>
                     <SituationNumber>network_1</SituationNumber>
                     <Progress>open</Progress>
                     <CreationTime>2026-07-30T09:24:22Z</CreationTime>
@@ -255,6 +315,38 @@
                                 <NetworkRef>1</NetworkRef>
                                 <AffectedLine>
                                     <LineRef>1</LineRef>
+                                </AffectedLine>
+                            </AffectedNetwork>
+                        </Networks>
+                    </Affects>
+                </PtSituationElement>
+                <PtSituationElement>
+                    <SituationNumber>line_without_ref</SituationNumber>
+                    <Progress>open</Progress>
+                    <CreationTime>2026-07-30T09:24:22Z</CreationTime>
+                    <VersionedAtTime>2026-07-30T09:24:22Z</VersionedAtTime>
+                    <Version>1</Version>
+                    <Source>
+                        <SourceType>other</SourceType>
+                        <SourceName>frechousky</SourceName>
+                    </Source>
+                    <ParticipantRef>frechousky</ParticipantRef>
+                    <Planned>true</Planned>
+                    <Keywords />
+                    <PublicationWindow>
+                        <StartTime>2020-01-01T00:00:00Z</StartTime>
+                        <EndTime>2999-12-31T23:59:59Z</EndTime>
+                    </PublicationWindow>
+                    <ValidityPeriod>
+                        <StartTime>2020-01-01T00:00:00Z</StartTime>
+                        <EndTime>2999-12-31T23:59:59Z</EndTime>
+                    </ValidityPeriod>
+                    <MiscellaneousReason>unattendedBag</MiscellaneousReason>
+                    <Severity>verySevere</Severity>
+                    <Affects>
+                        <Networks>
+                            <AffectedNetwork>
+                                <AffectedLine>
                                 </AffectedLine>
                             </AffectedNetwork>
                         </Networks>
