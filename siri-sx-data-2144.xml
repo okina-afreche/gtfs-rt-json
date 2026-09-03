@@ -182,9 +182,9 @@
                     <Affects>
                         <Networks>
                             <AffectedNetwork>
-                                <Operators>
-                                    <AffectedOperator>3</AffectedOperator>
-                                </Operators>
+                                <AffectedOperator>
+                                    <OperatorRef>3</OperatorRef>
+                                </AffectedOperator>
                             </AffectedNetwork>
                         </Networks>
                     </Affects>
