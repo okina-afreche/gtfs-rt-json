@@ -86,7 +86,9 @@
                     <Severity>verySevere</Severity>
                     <Affects>
                         <Operators>
-                            <AffectedOperator>1</AffectedOperator>
+                            <AffectedOperator>
+                                <OperatorRef>1</OperatorRef>
+                            </AffectedOperator>
                         </Operators>
                     </Affects>
                 </PtSituationElement>
@@ -115,8 +117,12 @@
                     <Severity>verySevere</Severity>
                     <Affects>
                         <Operators>
-                            <AffectedOperator>1</AffectedOperator>
-                            <AffectedOperator>2</AffectedOperator>
+                            <AffectedOperator>
+                                <OperatorRef>1</OperatorRef>
+                            </AffectedOperator>
+                            <AffectedOperator>
+                                <OperatorRef>2</OperatorRef>
+                            </AffectedOperator>
                         </Operators>
                     </Affects>
                 </PtSituationElement>
@@ -147,7 +153,9 @@
                         <Networks>
                             <AffectedNetwork>
                                 <Operators>
-                                    <AffectedOperator>3</AffectedOperator>
+                                    <AffectedOperator>
+                                        <OperatorRef>3</OperatorRef>
+                                    </AffectedOperator>
                                 </Operators>
                             </AffectedNetwork>
                         </Networks>
